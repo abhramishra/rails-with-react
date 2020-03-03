@@ -1,4 +1,7 @@
 # README
+https://www.youtube.com/watch?v=B0SxxHAImhc
+
+To install any package we can use - yarn add <package-name>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
